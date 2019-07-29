@@ -7,7 +7,7 @@ var quadradodeb = valorb * valorb;
 
 console.log(quadradodeb);
 
-var delta = quadradodeb - 4 * valora * valorc;
+var delta = quadradodeb - (4 * valora * valorc);
 
 console.log(delta);
 
